@@ -1,10 +1,12 @@
 ## Hi good people 👋
  I’m currently working on some projects
  <h4>Solar panel angle calculator</h4>
+ <strong>private</strong>
  <p>
    Apclication for calculation gain from solar
  </p>
  <h4>Digital democracy</h4>
+ <strong>public</strong>
  <p>
   Public aplication for brand new political system
    <br>
