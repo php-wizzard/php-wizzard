@@ -4,10 +4,12 @@
  <strong>private</strong>
  <p>
    Application for calculation of gain from solar 
-  <a href ="www.wind.in.rs/solar/public/index.php?c=NA"> Notrh American countries </a>
-  <a href ="www.wind.in.rs/solar/public/index.php?c=AS"> Asian countries </a>
-  <a href ="www.wind.in.rs/solar/public/index.php?c=EU"> Europeans countries </a>
-  <a href ="www.wind.in.rs/solar/public/index.php?c=AF"> Notrh African countries </a>
+  <ul>
+  <li> <a href ="www.wind.in.rs/solar/public/index.php?c=NA"> Notrh American countries </a></li>
+  <li> <a href ="www.wind.in.rs/solar/public/index.php?c=AS"> Asian countries </a></li>
+  <li> <a href ="www.wind.in.rs/solar/public/index.php?c=EU"> Europeans countries </a></li>
+  <li> <a href ="www.wind.in.rs/solar/public/index.php?c=AF"> Notrh African countries </a></li>
+  </ul>
  </p>
  <h2>Digital democracy</h2>
  <strong>public</strong>
