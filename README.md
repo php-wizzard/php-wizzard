@@ -1,5 +1,15 @@
-## Hi there 👋
-
+## Hi good people 👋
+ I’m currently working on some projects
+ <h4>Solar panel angle calculator</h4>
+ <p>
+   Apclication for calculation gain from solar
+ </p>
+ <h4>Digital democracy</h4>
+ <p>
+  Public aplication for brand new political system
+   <br>
+   Basic idea: why shodn't we select politicians online :)
+ </p>
 <!--
 **php-wizzard/php-wizzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
