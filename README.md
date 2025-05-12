@@ -3,24 +3,27 @@
  <h2>Solar panel angle calculator</h2>
  <strong>private</strong>
  <p>
-   Apclication for calculation gain from solar
-  <a href ="www.wind.in.rs/solar/public/index.php?c=NA"> Notrh america countries </a>
+   Application for calculation of gain from solar 
+  <a href ="www.wind.in.rs/solar/public/index.php?c=NA"> Notrh American countries </a>
   <a href ="www.wind.in.rs/solar/public/index.php?c=AS"> Asian countries </a>
-  <a href ="www.wind.in.rs/solar/public/index.php?c=EU"> Europians countries </a>
-  <a href ="www.wind.in.rs/solar/public/index.php?c=AF"> Notrh Africa countries </a>
+  <a href ="www.wind.in.rs/solar/public/index.php?c=EU"> Europeans countries </a>
+  <a href ="www.wind.in.rs/solar/public/index.php?c=AF"> Notrh African countries </a>
  </p>
  <h2>Digital democracy</h2>
  <strong>public</strong>
  <p>
   Public aplication for brand new political system
    <br>
-   Basic idea: why shodn't we select politicians online 😁
+  Application for a brand-new political system The basic idea is:<br>
+  why not consider selecting politicians online
+    😁
  </p>
-<h2> Crusihing mill faclicitu  </h2>
+ 
+<h2> Crushing mill facility  </h2>
 <stong>private </stong>
 <p>
-This is for my currently job about mechanical maintaing of crushing mill facilities
- <a href ="www.wind.in.rs/drobilana"> link </a>a>
+This is for my current job about mechanical maintenance of crushing mill facilities. 
+ <a href ="www.wind.in.rs/drobilana"> link </a>
 </p>
  
 <!--
